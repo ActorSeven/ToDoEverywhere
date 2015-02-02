@@ -1,0 +1,7 @@
+
+
+// Player controller
+-	resolve issue with collision on top of the ladders when pressing 'up' + ('left' or 'right')
+
+// Level generation
+-	Add exit door - find where to put the door depending on enter door
