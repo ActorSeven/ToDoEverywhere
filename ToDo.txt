@@ -5,3 +5,4 @@
 
 // Level generation
 -	Add exit door - find where to put the door depending on enter door
+-	Ladder - new bottom ladder for grap from middle
